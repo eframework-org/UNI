@@ -1,0 +1,8 @@
+[submodule "Packages/UTIL"]
+	path = Packages/UTIL
+	url = https://github.com/eframework-org/UNI.UTIL.git
+	branch = master
+[submodule "Packages/XHR"]
+	path = Packages/XHR
+	url = https://github.com/eframework-org/UNI.XHR.git
+	branch = master
